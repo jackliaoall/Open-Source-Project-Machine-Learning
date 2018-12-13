@@ -5,7 +5,7 @@
 
 ### 机器学习工具
 * [Graph Nets Build Graph Nets in Tensorflow](https://github.com/deepmind/graph_nets)
-* [AdaNet : Fast and flexible AutoML with learning guarantees](Fast and flexible AutoML with learning guarantees.)
+* [AdaNet : Fast and flexible AutoML with learning guarantees]Fast and flexible AutoML with learning guarantees.)
 * [MAMEToolkit : A Python toolkit used to train reinforcement learning algorithms against arcade games](https://github.com/M-J-Murray/MAMEToolkit)
 
 ### 姿态估计
