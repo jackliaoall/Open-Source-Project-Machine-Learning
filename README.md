@@ -10,7 +10,10 @@
 * [PocketFlow : An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications.](https://github.com/Tencent/PocketFlow)
 
 ### Pose Estimation
-* [OpenPose OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation ](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+* [DeepPose : DeepPose implementation in Chainer](https://github.com/mitmul/deeppose)
+* [AlphaPose : Real-Time Multi-Person Pose Estimation System](https://github.com/MVIG-SJTU/AlphaPose)
+* [OpenPose OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+* [DensePose : A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body](https://github.com/facebookresearch/Densepose)
 
 ### Target Detection 
 * [ImageAI : A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities ](https://github.com/OlafenwaMoses/ImageAI) 
