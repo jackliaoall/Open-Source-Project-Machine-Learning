@@ -9,6 +9,9 @@
 * [AdaNet : Fast and flexible AutoML with learning guarantees](https://github.com/tensorflow/adanet)
 * [PocketFlow : An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications.](https://github.com/Tencent/PocketFlow)
 
+### Autonomous Driving
+* [apollo : An open autonomous driving platform ](https://github.com/ApolloAuto/apollo)
+
 ### Pose Estimation
 * [DeepPose : DeepPose implementation in Chainer](https://github.com/mitmul/deeppose)
 * [AlphaPose : Real-Time Multi-Person Pose Estimation System](https://github.com/MVIG-SJTU/AlphaPose)
