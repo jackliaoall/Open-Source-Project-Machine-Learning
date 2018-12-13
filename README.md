@@ -56,6 +56,7 @@ Some Open Source Platform and Network Model Codes for Machine Learning, they all
 * [DeOldify:A Deep Learning based project for colorizing and restoring old images ](https://github.com/jantic/DeOldify)
 * [Pix2pixHD : Synthesizing and manipulating 2048x1024 images with conditional GANs](https://github.com/NVIDIA/pix2pixHD)
 * [Deep Exemplar-based Colorization : The source code of "Deep Exemplar-based Colorization"](https://github.com/msracver/Deep-Exemplar-based-Colorization)
+* [tencent-ml-images : Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet](https://github.com/Tencent/tencent-ml-images)
 
 ### Audio
 * [Magenta: Music and Art Generation with Machine Intelligence ](https://github.com/tensorflow/magenta)
@@ -74,4 +75,6 @@ Some Open Source Platform and Network Model Codes for Machine Learning, they all
 * [Text-Classification : Implementation of papers for text classification task on DBpedia](https://github.com/TobiasLee/Text-Classification)
 * [textgenrnn ：Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code. ](https://github.com/minimaxir/textgenrnn) ；
 
+### Forecast 
+* [AlphaAI : Use unsupervised and supervised learning to predict stocks](https://github.com/VivekPa/AlphaAI)
 
