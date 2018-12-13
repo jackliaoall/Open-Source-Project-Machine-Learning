@@ -21,6 +21,8 @@
 ### Pose Estimation
 * [DeepPose : DeepPose implementation in Chainer](https://github.com/mitmul/deeppose)
 * [AlphaPose : Real-Time Multi-Person Pose Estimation System](https://github.com/MVIG-SJTU/AlphaPose)
+* [CycleGAN and pix2pix in PyTorch : Image-to-image translation in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+* [deep-image-prior : Image restoration with neural networks but without learning](https://github.com/DmitryUlyanov/deep-image-prior)
 * [OpenPose OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 * [DensePose : A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body](https://github.com/facebookresearch/Densepose)
 
@@ -30,19 +32,22 @@
 ### Semantic Segmentation 
 * [maskrcnn-benchmark : Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch. ](https://github.com/facebookresearch/maskrcnn-benchmark)
 
-### Face Recognition
+### Face 
 * [face_recognition : The world's simplest facial recognition api for Python and the command line ](https://github.com/ageitgey/face_recognition)
+* [face_classification: Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV.](https://github.com/oarriaga/face_classification)
 
 ### Image Processing 
 * [style2paints : sketch + style = paints](https://github.com/lllyasviel/style2paints)
 * [Decensoring Hentai with Deep Neural Networks ](https://github.com/deeppomf/DeepCreamPy)
 * [fast-style-transfer : TensorFlow CNN for fast style transfer](https://github.com/lengstrom/fast-style-transfer)
+* [iGAN : Interactive Image Generation via Generative Adversarial Networks ](https://github.com/junyanz/iGAN)
 * [Deep-photo-styletransfer : Code and data for paper "Deep Photo Style Transfer"](https://github.com/luanfujun/deep-photo-styletransfer)
 * [DeOldify:A Deep Learning based project for colorizing and restoring old images ](https://github.com/jantic/DeOldify)
-* [CycleGAN and pix2pix in PyTorch : Image-to-image translation in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+* [StarGAN : Official Implementation of StarGAN - CVPR 2018 ](https://github.com/yunjey/StarGAN)
 
 ### Audio
 * [Magenta: Music and Art Generation with Machine Intelligence ](https://github.com/tensorflow/magenta)
+* [Speech-to-Text-WaveNet : Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition based on DeepMind's WaveNet and tensorflow](https://github.com/buriburisuri/speech-to-text-wavenet)
 
 ### NLP
 * [texar ：Toolkit for Text Generation and Beyond](https://github.com/asyml/texar)
