@@ -2,11 +2,12 @@
 
 ### 强化学习
 * [Horizon : A platform for Applied Reinforcement Learning (Applied RL)](https://github.com/facebookresearch/Horizon)
+* [MAMEToolkit : A Python toolkit used to train reinforcement learning algorithms against arcade games](https://github.com/M-J-Murray/MAMEToolkit)
 
 ### 机器学习工具
 * [Graph Nets Build Graph Nets in Tensorflow](https://github.com/deepmind/graph_nets)
 * [AdaNet : Fast and flexible AutoML with learning guarantees](https://github.com/tensorflow/adanet)
-* [MAMEToolkit : A Python toolkit used to train reinforcement learning algorithms against arcade games](https://github.com/M-J-Murray/MAMEToolkit)
+* [PocketFlow : An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications.](https://github.com/Tencent/PocketFlow)
 
 ### 姿态估计
 * [OpenPose OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation ](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
@@ -14,6 +15,8 @@
 ### 目标检测
 * [ImageAI : A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities ](https://github.com/OlafenwaMoses/ImageAI) 
 
+### 语义分割
+* [maskrcnn-benchmark : Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch. ](https://github.com/facebookresearch/maskrcnn-benchmark)
 ### NLP
 * [texar ：Toolkit for Text Generation and Beyond](https://github.com/asyml/texar)
 * [BERT:TensorFlow code and pre-trained models for BERT](https://github.com/google-research/bert)
