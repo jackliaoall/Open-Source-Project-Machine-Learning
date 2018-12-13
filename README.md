@@ -2,10 +2,10 @@
 
 ### Reinforcement Learning
 * [pysc2 : StarCraft II Learning Environment](https://github.com/deepmind/pysc2)
+* [Ml-agents : Unity Machine Learning Agents Toolkit](https://github.com/Unity-Technologies/ml-agents)
 * [Horizon : A platform for Applied Reinforcement Learning (Applied RL)](https://github.com/facebookresearch/Horizon)
 * [MAMEToolkit : A Python toolkit used to train reinforcement learning algorithms against arcade games](https://github.com/M-J-Murray/MAMEToolkit)
 * [AirSim : Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research](https://github.com/Microsoft/AirSim)
-* [Ml-agents : https://github.com/Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
 
 ### Tool of Machine Learning
 * [Graph Nets Build Graph Nets in Tensorflow](https://github.com/deepmind/graph_nets)
@@ -14,9 +14,9 @@
 * [AdaNet : Fast and flexible AutoML with learning guarantees](https://github.com/tensorflow/adanet)
 * [Horovod : Distributed training framework for TensorFlow, Keras, and PyTorch.](https://github.com/uber/horovod)
 * [TensorFlow.js : WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript.](https://github.com/tensorflow/tfjs-core)
-* [PocketFlow : An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications.](https://github.com/Tencent/PocketFlow)
 * [AI-Blocks : A powerful and intuitive WYSIWYG interface that allows anyone to create Machine Learning models](https://github.com/MrNothing/AI-Blocks)
-* [tensor2tensor : Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research. ](https://github.com/tensorflow/tensor2tensor)
+* [PocketFlow : An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications.](https://github.com/Tencent/PocketFlow)
+* [tensor2tensor : Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.](https://github.com/tensorflow/tensor2tensor)
 
 ### Autonomous Driving
 * [apollo : An open autonomous driving platform ](https://github.com/ApolloAuto/apollo)
@@ -30,7 +30,7 @@
 * [DensePose : A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body](https://github.com/facebookresearch/Densepose)
 
 ### Target Detection 
-* [ImageAI : A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities ](https://github.com/OlafenwaMoses/ImageAI) 
+* [ImageAI : A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities](https://github.com/OlafenwaMoses/ImageAI) 
 
 ### Semantic Segmentation 
 * [maskrcnn-benchmark : Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch. ](https://github.com/facebookresearch/maskrcnn-benchmark)
@@ -48,6 +48,7 @@
 * [Deep-photo-styletransfer : Code and data for paper "Deep Photo Style Transfer"](https://github.com/luanfujun/deep-photo-styletransfer)
 * [DeOldify:A Deep Learning based project for colorizing and restoring old images ](https://github.com/jantic/DeOldify)
 * [Pix2pixHD : Synthesizing and manipulating 2048x1024 images with conditional GANs](https://github.com/NVIDIA/pix2pixHD)
+
 ### Audio
 * [Magenta: Music and Art Generation with Machine Intelligence ](https://github.com/tensorflow/magenta)
 * [Speaking like Kate Winslet : Deep neural networks for voice conversion (voice style transfer) in Tensorflow ](https://github.com/andabi/deep-voice-conversion)
