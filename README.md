@@ -12,10 +12,12 @@ Some Open Source Platform and Network Model Codes for Machine Learning, they all
 * [AirSim : Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research](https://github.com/Microsoft/AirSim)
 
 ### Tool of Machine Learning
+
 * [Graph Nets Build Graph Nets in Tensorflow](https://github.com/deepmind/graph_nets)
 * [sonnet TensorFlow-based neural network library ](https://github.com/deepmind/sonnet)
 * [facets : Visualizations for machine learning datasets](https://github.com/PAIR-code/facets)
 * [AdaNet : Fast and flexible AutoML with learning guarantees](https://github.com/tensorflow/adanet)
+* [fastai : The fastai deep learning library, plus lessons and and tutorials](https://github.com/fastai/fastai)
 * [Horovod : Distributed training framework for TensorFlow, Keras, and PyTorch.](https://github.com/uber/horovod)
 * [TensorFlow.js : WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript.](https://github.com/tensorflow/tfjs-core)
 * [AI-Blocks : A powerful and intuitive WYSIWYG interface that allows anyone to create Machine Learning models](https://github.com/MrNothing/AI-Blocks)
@@ -54,8 +56,10 @@ Some Open Source Platform and Network Model Codes for Machine Learning, they all
 * [DeOldify:A Deep Learning based project for colorizing and restoring old images ](https://github.com/jantic/DeOldify)
 * [Pix2pixHD : Synthesizing and manipulating 2048x1024 images with conditional GANs](https://github.com/NVIDIA/pix2pixHD)
 * [Deep Exemplar-based Colorization : The source code of "Deep Exemplar-based Colorization"](https://github.com/msracver/Deep-Exemplar-based-Colorization)
+
 ### Audio
 * [Magenta: Music and Art Generation with Machine Intelligence ](https://github.com/tensorflow/magenta)
+* [albumentations : fast image augmentation library and easy to use wrapper around other libraries](https://github.com/albu/albumentations)
 * [Speaking like Kate Winslet : Deep neural networks for voice conversion (voice style transfer) in Tensorflow ](https://github.com/andabi/deep-voice-conversion)
 * [Speech-to-Text-WaveNet : Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition based on DeepMind's WaveNet and tensorflow](https://github.com/buriburisuri/speech-to-text-wavenet)
 
