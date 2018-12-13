@@ -17,11 +17,12 @@
 
 ### Semantic Segmentation 
 * [maskrcnn-benchmark : Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch. ](https://github.com/facebookresearch/maskrcnn-benchmark)
+
 ### NLP
 * [texar ：Toolkit for Text Generation and Beyond](https://github.com/asyml/texar)
 * [BERT:TensorFlow code and pre-trained models for BERT](https://github.com/google-research/bert)
+* [Text-Classification : Implementation of papers for text classification task on DBpedia](https://github.com/TobiasLee/Text-Classification)
 * [textgenrnn ：Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code. ](https://github.com/minimaxir/textgenrnn) ；
-
 
 ### Image Processing 
 * [Decensoring Hentai with Deep Neural Networks ](https://github.com/deeppomf/DeepCreamPy)
