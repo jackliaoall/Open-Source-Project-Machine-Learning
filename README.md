@@ -7,6 +7,7 @@ Some Open Source Platform and Network Model Codes for Machine Learning, they all
 * [Ml-agents : Unity Machine Learning Agents Toolkit](https://github.com/Unity-Technologies/ml-agents)
 * [A Platform for Many-agent Reinforcement Learning](https://github.com/geek-ai/MAgent) 
 * [Horizon : A platform for Applied Reinforcement Learning (Applied RL)](https://github.com/facebookresearch/Horizon)
+* [ELF: a platform for game research with AlphaGoZero/AlphaZero reimplementation](https://github.com/pytorch/ELF)
 * [MAMEToolkit : A Python toolkit used to train reinforcement learning algorithms against arcade games](https://github.com/M-J-Murray/MAMEToolkit)
 * [AirSim : Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research](https://github.com/Microsoft/AirSim)
 
@@ -32,6 +33,7 @@ Some Open Source Platform and Network Model Codes for Machine Learning, they all
 
 ### Target Detection 
 * [ImageAI : A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities](https://github.com/OlafenwaMoses/ImageAI) 
+* [Detectron : FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet. ](https://github.com/facebookresearch/Detectron)
 
 ### Semantic Segmentation 
 * [maskrcnn-benchmark : Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch. ](https://github.com/facebookresearch/maskrcnn-benchmark)
@@ -51,7 +53,7 @@ Some Open Source Platform and Network Model Codes for Machine Learning, they all
 * [Deep-photo-styletransfer : Code and data for paper "Deep Photo Style Transfer"](https://github.com/luanfujun/deep-photo-styletransfer)
 * [DeOldify:A Deep Learning based project for colorizing and restoring old images ](https://github.com/jantic/DeOldify)
 * [Pix2pixHD : Synthesizing and manipulating 2048x1024 images with conditional GANs](https://github.com/NVIDIA/pix2pixHD)
-
+* [Deep Exemplar-based Colorization : The source code of "Deep Exemplar-based Colorization"](https://github.com/msracver/Deep-Exemplar-based-Colorization)
 ### Audio
 * [Magenta: Music and Art Generation with Machine Intelligence ](https://github.com/tensorflow/magenta)
 * [Speaking like Kate Winslet : Deep neural networks for voice conversion (voice style transfer) in Tensorflow ](https://github.com/andabi/deep-voice-conversion)
