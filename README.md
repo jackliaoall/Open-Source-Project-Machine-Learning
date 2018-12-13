@@ -4,8 +4,8 @@ Some Open Source Platform and Network Model Codes for Machine Learning, they all
 
 ### Reinforcement Learning
 * [pysc2 : StarCraft II Learning Environment](https://github.com/deepmind/pysc2)
-* [A Platform for Many-agent Reinforcement Learning](https://github.com/geek-ai/MAgent) 
 * [Ml-agents : Unity Machine Learning Agents Toolkit](https://github.com/Unity-Technologies/ml-agents)
+* [A Platform for Many-agent Reinforcement Learning](https://github.com/geek-ai/MAgent) 
 * [Horizon : A platform for Applied Reinforcement Learning (Applied RL)](https://github.com/facebookresearch/Horizon)
 * [MAMEToolkit : A Python toolkit used to train reinforcement learning algorithms against arcade games](https://github.com/M-J-Murray/MAMEToolkit)
 * [AirSim : Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research](https://github.com/Microsoft/AirSim)
