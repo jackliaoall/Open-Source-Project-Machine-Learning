@@ -26,8 +26,6 @@ Some Open Source Platform and Network Model Codes for Machine Learning, they all
 ### Pose Estimation
 * [DeepPose : DeepPose implementation in Chainer](https://github.com/mitmul/deeppose)
 * [AlphaPose : Real-Time Multi-Person Pose Estimation System](https://github.com/MVIG-SJTU/AlphaPose)
-* [CycleGAN and pix2pix in PyTorch : Image-to-image translation in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
-* [deep-image-prior : Image restoration with neural networks but without learning](https://github.com/DmitryUlyanov/deep-image-prior)
 * [OpenPose OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 * [DensePose : A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body](https://github.com/facebookresearch/Densepose)
 
@@ -46,7 +44,9 @@ Some Open Source Platform and Network Model Codes for Machine Learning, they all
 * [Decensoring Hentai with Deep Neural Networks ](https://github.com/deeppomf/DeepCreamPy)
 * [StarGAN : Official Implementation of StarGAN - CVPR 2018 ](https://github.com/yunjey/StarGAN)
 * [fast-style-transfer : TensorFlow CNN for fast style transfer](https://github.com/lengstrom/fast-style-transfer)
+* [CycleGAN and pix2pix in PyTorch : Image-to-image translation in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 * [iGAN : Interactive Image Generation via Generative Adversarial Networks ](https://github.com/junyanz/iGAN)
+* [deep-image-prior : Image restoration with neural networks but without learning](https://github.com/DmitryUlyanov/deep-image-prior)
 * [Deep-photo-styletransfer : Code and data for paper "Deep Photo Style Transfer"](https://github.com/luanfujun/deep-photo-styletransfer)
 * [DeOldify:A Deep Learning based project for colorizing and restoring old images ](https://github.com/jantic/DeOldify)
 * [Pix2pixHD : Synthesizing and manipulating 2048x1024 images with conditional GANs](https://github.com/NVIDIA/pix2pixHD)
