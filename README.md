@@ -3,7 +3,7 @@
 Some Open Source Platform and Network Model Codes for Machine Learning, most of them have thousands of starts.
 
 ### Reinforcement Learning
-* [pysc2 : StarCraft II Learning Environment](https://github.com/deepmind/pysc2)
+* [Pysc2 : StarCraft II Learning Environment](https://github.com/deepmind/pysc2)
 * [Ml-agents : Unity Machine Learning Agents Toolkit](https://github.com/Unity-Technologies/ml-agents)
 * [A Platform for Many-agent Reinforcement Learning](https://github.com/geek-ai/MAgent) 
 * [Horizon : A platform for Applied Reinforcement Learning (Applied RL)](https://github.com/facebookresearch/Horizon)
@@ -14,7 +14,7 @@ Some Open Source Platform and Network Model Codes for Machine Learning, most of 
 ### Tool of Machine Learning
 
 * [Graph Nets Build Graph Nets in Tensorflow](https://github.com/deepmind/graph_nets)
-* [sonnet TensorFlow-based neural network library ](https://github.com/deepmind/sonnet)
+* [Sonnet TensorFlow-based neural network library ](https://github.com/deepmind/sonnet)
 * [facets : Visualizations for machine learning datasets](https://github.com/PAIR-code/facets)
 * [AdaNet : Fast and flexible AutoML with learning guarantees](https://github.com/tensorflow/adanet)
 * [fastai : The fastai deep learning library, plus lessons and and tutorials](https://github.com/fastai/fastai)
@@ -25,7 +25,7 @@ Some Open Source Platform and Network Model Codes for Machine Learning, most of 
 * [tensor2tensor : Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.](https://github.com/tensorflow/tensor2tensor)
 
 ### Autonomous Driving
-* [apollo : An open autonomous driving platform ](https://github.com/ApolloAuto/apollo)
+* [Apollo : An open autonomous driving platform ](https://github.com/ApolloAuto/apollo)
 
 ### Pose Estimation
 * [DeepPose : DeepPose implementation in Chainer](https://github.com/mitmul/deeppose)
@@ -38,11 +38,11 @@ Some Open Source Platform and Network Model Codes for Machine Learning, most of 
 * [Detectron : FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet. ](https://github.com/facebookresearch/Detectron)
 
 ### Semantic Segmentation 
-* [maskrcnn-benchmark : Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch. ](https://github.com/facebookresearch/maskrcnn-benchmark)
+* [Maskrcnn-benchmark : Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch. ](https://github.com/facebookresearch/maskrcnn-benchmark)
 
 ### Face 
-* [face_recognition : The world's simplest facial recognition api for Python and the command line ](https://github.com/ageitgey/face_recognition)
-* [face_classification: Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV.](https://github.com/oarriaga/face_classification)
+* [Face_recognition : The world's simplest facial recognition api for Python and the command line ](https://github.com/ageitgey/face_recognition)
+* [Face_classification: Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV.](https://github.com/oarriaga/face_classification)
 
 ### Image Processing 
 * [style2paints : sketch + style = paints](https://github.com/lllyasviel/style2paints)
@@ -56,11 +56,11 @@ Some Open Source Platform and Network Model Codes for Machine Learning, most of 
 * [DeOldify:A Deep Learning based project for colorizing and restoring old images ](https://github.com/jantic/DeOldify)
 * [Pix2pixHD : Synthesizing and manipulating 2048x1024 images with conditional GANs](https://github.com/NVIDIA/pix2pixHD)
 * [Deep Exemplar-based Colorization : The source code of "Deep Exemplar-based Colorization"](https://github.com/msracver/Deep-Exemplar-based-Colorization)
-* [tencent-ml-images : Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet](https://github.com/Tencent/tencent-ml-images)
+* [Tencent-ml-images : Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet](https://github.com/Tencent/tencent-ml-images)
 
 ### Audio
 * [Magenta: Music and Art Generation with Machine Intelligence ](https://github.com/tensorflow/magenta)
-* [albumentations : fast image augmentation library and easy to use wrapper around other libraries](https://github.com/albu/albumentations)
+* [Albumentations : fast image augmentation library and easy to use wrapper around other libraries](https://github.com/albu/albumentations)
 * [Speaking like Kate Winslet : Deep neural networks for voice conversion (voice style transfer) in Tensorflow ](https://github.com/andabi/deep-voice-conversion)
 * [Speech-to-Text-WaveNet : Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition based on DeepMind's WaveNet and tensorflow](https://github.com/buriburisuri/speech-to-text-wavenet)
 
@@ -68,12 +68,12 @@ Some Open Source Platform and Network Model Codes for Machine Learning, most of 
 * [DeepVideoAnalytics : A distributed visual search and visual data analytics platform.](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics)
 
 ### NLP
-* [texar ：Toolkit for Text Generation and Beyond](https://github.com/asyml/texar)
+* [Texar ：Toolkit for Text Generation and Beyond](https://github.com/asyml/texar)
 * [BERT:TensorFlow code and pre-trained models for BERT](https://github.com/google-research/bert)
 * [OpenNMT : Open Source Neural Machine Translation in Torch](https://github.com/OpenNMT/OpenNMT)
 * [FastText Library for fast text representation and classification](https://github.com/facebookresearch/fastText)
 * [Text-Classification : Implementation of papers for text classification task on DBpedia](https://github.com/TobiasLee/Text-Classification)
-* [textgenrnn ：Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code. ](https://github.com/minimaxir/textgenrnn) ；
+* [Textgenrnn ：Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code. ](https://github.com/minimaxir/textgenrnn) ；
 
 ### Forecast 
 * [AlphaAI : Use unsupervised and supervised learning to predict stocks](https://github.com/VivekPa/AlphaAI)
