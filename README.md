@@ -15,7 +15,7 @@
 ### Target Detection 
 * [ImageAI : A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities ](https://github.com/OlafenwaMoses/ImageAI) 
 
-### 语义分割
+### Semantic Segmentation 
 * [maskrcnn-benchmark : Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch. ](https://github.com/facebookresearch/maskrcnn-benchmark)
 ### NLP
 * [texar ：Toolkit for Text Generation and Beyond](https://github.com/asyml/texar)
@@ -23,6 +23,6 @@
 * [textgenrnn ：Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code. ](https://github.com/minimaxir/textgenrnn) ；
 
 
-### 图片处理
+### Image Processing 
 * [Decensoring Hentai with Deep Neural Networks ](https://github.com/deeppomf/DeepCreamPy)
 * [DeOldify:A Deep Learning based project for colorizing and restoring old images ](https://github.com/jantic/DeOldify)
