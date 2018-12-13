@@ -1,4 +1,4 @@
-# Open-Source-Project---Machine-Learning
+# Open-Source-Project-Machine-Learning
 
 ### 强化学习
 * [Horizon : A platform for Applied Reinforcement Learning (Applied RL)](https://github.com/facebookresearch/Horizon)
