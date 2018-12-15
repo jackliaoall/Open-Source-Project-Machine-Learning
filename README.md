@@ -70,6 +70,7 @@ Some Open Source Platform and Network Model Codes for Machine Learning, most of 
 ### NLP
 * [Texar ：Toolkit for Text Generation and Beyond](https://github.com/asyml/texar)
 * [BERT:TensorFlow code and pre-trained models for BERT](https://github.com/google-research/bert)
+* [A natural language modeling framework based on PyTorch](https://github.com/facebookresearch/pytext)
 * [OpenNMT : Open Source Neural Machine Translation in Torch](https://github.com/OpenNMT/OpenNMT)
 * [FastText Library for fast text representation and classification](https://github.com/facebookresearch/fastText)
 * [Text-Classification : Implementation of papers for text classification task on DBpedia](https://github.com/TobiasLee/Text-Classification)
