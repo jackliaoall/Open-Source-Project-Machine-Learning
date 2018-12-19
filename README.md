@@ -45,12 +45,17 @@ Some Open Source Platform and Network Model Codes for Machine Learning, most of 
 * [Face_classification: Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV.](https://github.com/oarriaga/face_classification)
 
 ### Image Processing 
-* [style2paints : sketch + style = paints](https://github.com/lllyasviel/style2paints)
-* [Decensoring Hentai with Deep Neural Networks ](https://github.com/deeppomf/DeepCreamPy)
+
+#### GAN
 * [StarGAN : Official Implementation of StarGAN - CVPR 2018 ](https://github.com/yunjey/StarGAN)
-* [fast-style-transfer : TensorFlow CNN for fast style transfer](https://github.com/lengstrom/fast-style-transfer)
 * [CycleGAN and pix2pix in PyTorch : Image-to-image translation in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 * [iGAN : Interactive Image Generation via Generative Adversarial Networks ](https://github.com/junyanz/iGAN)
+
+####
+* [style2paints : sketch + style = paints](https://github.com/lllyasviel/style2paints)
+* [Decensoring Hentai with Deep Neural Networks ](https://github.com/deeppomf/DeepCreamPy)
+* [colornet : Neural Network to colorize grayscale images](https://github.com/pavelgonchar/colornet)
+* [fast-style-transfer : TensorFlow CNN for fast style transfer](https://github.com/lengstrom/fast-style-transfer)
 * [deep-image-prior : Image restoration with neural networks but without learning](https://github.com/DmitryUlyanov/deep-image-prior)
 * [Deep-photo-styletransfer : Code and data for paper "Deep Photo Style Transfer"](https://github.com/luanfujun/deep-photo-styletransfer)
 * [DeOldify:A Deep Learning based project for colorizing and restoring old images ](https://github.com/jantic/DeOldify)
