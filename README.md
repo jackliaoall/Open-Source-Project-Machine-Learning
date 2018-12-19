@@ -46,7 +46,7 @@ Some Open Source Platform and Network Model Codes for Machine Learning, most of 
 
 ### Image Processing 
 
-#### GAN
+* #### GAN
 * [StarGAN : Official Implementation of StarGAN - CVPR 2018 ](https://github.com/yunjey/StarGAN)
 * [CycleGAN and pix2pix in PyTorch : Image-to-image translation in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 * [iGAN : Interactive Image Generation via Generative Adversarial Networks ](https://github.com/junyanz/iGAN)
