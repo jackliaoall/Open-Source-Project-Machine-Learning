@@ -8,6 +8,7 @@ Some Open Source Platform and Network Model Codes for Machine Learning, most of 
 * [A Platform for Many-agent Reinforcement Learning](https://github.com/geek-ai/MAgent) 
 * [Horizon : A platform for Applied Reinforcement Learning (Applied RL)](https://github.com/facebookresearch/Horizon)
 * [ELF: a platform for game research with AlphaGoZero/AlphaZero reimplementation](https://github.com/pytorch/ELF)
+* [autodrome : Framework and OpenAI Gym Environment for Autonomous Vehicle Development](https://github.com/vojtamolda/autodrome)
 * [MAMEToolkit : A Python toolkit used to train reinforcement learning algorithms against arcade games](https://github.com/M-J-Murray/MAMEToolkit)
 * [AirSim : Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research](https://github.com/Microsoft/AirSim)
 
