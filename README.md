@@ -7,6 +7,7 @@ Some Open Source Platform and Network Model Codes for Machine Learning, most of 
 * [Ml-agents : Unity Machine Learning Agents Toolkit](https://github.com/Unity-Technologies/ml-agents)
 * [A Platform for Many-agent Reinforcement Learning](https://github.com/geek-ai/MAgent) 
 * [Horizon : A platform for Applied Reinforcement Learning (Applied RL)](https://github.com/facebookresearch/Horizon)
+* [nevergrad : A Python toolbox for performing gradient-free optimization ](https://github.com/facebookresearch/nevergrad)
 * [ELF: a platform for game research with AlphaGoZero/AlphaZero reimplementation](https://github.com/pytorch/ELF)
 * [autodrome : Framework and OpenAI Gym Environment for Autonomous Vehicle Development](https://github.com/vojtamolda/autodrome)
 * [MAMEToolkit : A Python toolkit used to train reinforcement learning algorithms against arcade games](https://github.com/M-J-Murray/MAMEToolkit)
