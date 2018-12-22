@@ -10,10 +10,12 @@ Some Open Source Platform and Network Model Codes for Machine Learning, most of 
 * [nevergrad : A Python toolbox for performing gradient-free optimization ](https://github.com/facebookresearch/nevergrad)
 * [ELF: a platform for game research with AlphaGoZero/AlphaZero reimplementation](https://github.com/pytorch/ELF)
 * [autodrome : Framework and OpenAI Gym Environment for Autonomous Vehicle Development](https://github.com/vojtamolda/autodrome)
+* [x-deeplearning : An industrial deep learning framework for high-dimension sparse data](https://github.com/alibaba/x-deeplearning)
 * [MAMEToolkit : A Python toolkit used to train reinforcement learning algorithms against arcade games](https://github.com/M-J-Murray/MAMEToolkit)
 * [AirSim : Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research](https://github.com/Microsoft/AirSim)
 
 ### Tool of Machine Learning
+
 
 * [Graph Nets Build Graph Nets in Tensorflow](https://github.com/deepmind/graph_nets)
 * [Sonnet TensorFlow-based neural network library ](https://github.com/deepmind/sonnet)
